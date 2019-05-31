@@ -1,3 +1,2 @@
-a = 2
-b = 1
-c = 1
+a = 1
+#I want come  back to qianmian
